@@ -21,3 +21,11 @@ https://www.researchgate.net/publication/322407750_A_Basic_Language_Resource_Kit
 https://dl.acm.org/doi/pdf/10.1145/3146387 ,
 https://dl.acm.org/doi/10.1145/3314942 .
 
+# Reference
+
+Kindly cite these papers if you use our IgboTagged Corpus:
+
+Ikechukwu E Onyenwe, Mark Hepple, Uchechukwu Chinedu, and Ignatius Ezeani. 2018. A Basic Language Resource Kit Implementation for the IgboNLP Project. ACM Trans. Asian Low-Resour. Lang. Inf. Process. 17, 2, Article 10 (February 2018), 23 pages. DOI:https://doi.org/10.1145/3146387
+
+Ikechukwu E. Onyenwe, Mark Hepple, Uchechukwu Chinedu, and Ignatius Ezeani. 2019. Toward an Effective Igbo Part-of-Speech Tagger. ACM Trans. Asian Low-Resour. Lang. Inf. Process. 18, 4, Article 42 (August 2019), 26 pages. DOI:https://doi.org/10.1145/3314942
+  
