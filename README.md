@@ -38,8 +38,6 @@ Ikechukwu E. Onyenwe, Mark Hepple, Uchechukwu Chinedu, and Ignatius Ezeani. 2019
 
 # Publications
 
-Ignatius Ezeani, Paul Rayson, Ikechukwu Onyenwe, Chinedu Uchechukwu, Mark Hepple. Igbo-English Machine Translation: An Evaluation Benchmark. arXiv preprint arXiv:2004.00648. Presented as a conference paper at ICLR 2020.  https://eprints.lancs.ac.uk/id/eprint/143939/ 
-
 Ikechukwu E. Onyenwe, Mark Hepple, Uchechukwu Chinedu, and Ignatius Ezeani. Toward an Effective Igbo Part-of-Speech Tagger. ACM Trans. Asian Low-Resour. Lang. Inf. Process. 18, 4, Article 42 (May 2019), 26 pages. DOI:https://doi.org/10.1145/3314942.
 
 Onyenwe Ikechukwu, E., Onyedinma Ebele, G., & Aniegwu Godwin, E. Bootstrapping Method For Developing Part-Of-Speech Tagged Corpus In Low Resource Languages Tagset-A Focus On An African Igbo. https://arxiv.org/abs/1903.05225. Published on Journal on Natural Language Computing (IJNLC), 8(1), 13.
@@ -57,8 +55,6 @@ David Wright and Ikechukwu E. Onyenwe. Predatory discourses and the incitement o
 Ignatius Ezeani, Mark Hepple and Ikechukwu Onyenwe. 2017. Lexical Disambiguation of Igbo using Diacritic Restoration. Association for Computational Linguistics (ACL) Anthology on Sense, Concept and Entity Representations and their Applications, 2017, Pages 53–60, April 2017. DOI: http://dx.doi.org/10.18653/v1/W17-1907 
 
 Chioma Enemouh, Mark Hepple, Ignatius Ezeani, and Ikechukwu Onyenwe. 2017. Morph-Infected Word Detection in Igbo via Bitext. Widening Natural Language Processing (WiNLP), Association for Computational Linguistics (ACL) 2017.
-
-Ikechukwu Onyenwe, Ignatius Ezeani and Chioma Enemouh. 2017. Sustainable Development Goals (SDGs) in Africa Via Language Technology. First postgraduate conference of All African Postgraduate Research Group (AAPoRG). Africa in the Era of Sustainable Growth. University of Sheffield.
 
 Onyenwe Ikechukwu E. and Mark Hepple. 2016. Predicting Morphologically-Complex Unknown Words in Igbo. Text, Speech, Dialogue (TSD) Springer international -Verlag in Artifcial Intelligence, Volume 9924 1. DOI:  https://doi.org/10.1007/978-3-319-45510-5_24. 
 
